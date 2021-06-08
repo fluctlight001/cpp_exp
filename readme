@@ -1,3 +1,12 @@
 C++课设:图书管理系统
-main.cpp  主程序
-book.cpp  图书数据库部分功能验证程序
+
+cpp_exp/
+├── LICENSE
+├── admin       // 用户信息的存储文件
+├── book        // book.cpp的可执行文件
+├── book.cpp    // 图书数据库部分功能验证程序
+├── booklist    // 图书信息的存储文件
+├── main        // 主程序的可执行文件
+├── main.cpp    // 主程序
+├── reader      // 读者及其借阅书籍信息的存储文件
+└── readme      // 说明文件
